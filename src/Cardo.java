@@ -14,7 +14,7 @@ public class Cardo {
 	}
 	
 	public Cardo(String name, int stars, int atk, int def) {
-		this.namae = name;
+		namae = name;
 		this.stars = stars;
 		this.atk = atk;
 		this.def = def;
